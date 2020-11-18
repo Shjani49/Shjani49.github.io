@@ -66,8 +66,10 @@ const config = {
             </ul>`
           },
           {
-            type: 'youtube',
-            url: 'https://www.youtube.com/watch?v=PSnSo9kYlH4&t=3s'
+            type: "embed",
+            url: 'https://shjani49.github.io/VideoJs/',
+            autoplay: true,
+            responsive: true,
           }
         ],
         notes: `I have a lot of things to say such as:
